@@ -80,7 +80,7 @@
             <h3>Datos Generales Enviados</h3>
             <p><strong>Folio:</strong> 2SNB0911060</p>
             <p><strong>RFC:</strong> SAEM9206138Q1</p>
-            <p><strong>Fecha:</strong> 26-02-2025</p>
+            <p><strong>Fecha:</strong> 15-01-2026</p>
             <p><strong>Sentido:</strong> Positivo</p>
         </div>
     
